@@ -1,0 +1,77 @@
+body {
+  font-size: bold;
+}
+.bg-img {
+  background-image: url(./images/summer\ bg.avif);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg-img2 {
+  background-image: url(./images/winter2.jpg);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg-img3 {
+  background-image: url(./images/spring\ bg.png);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg-img4{
+  background-image: url(./images/autum-bg.png);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  height: 400px;
+  width: 350px;
+  border: 2px solid black;
+  text-align: center;
+  margin: auto;
+  /* margin-top: 5%; */
+}
+.card img {
+  height: 200px;
+  width: 350px;
+  border: 2px solid black;
+}
+h1 {
+  color: black;
+  text-align: center;
+  text-decoration: underline;
+  font-size: x-large;
+  text-transform: uppercase;
+}
+#hot {
+  background-color: rgb(167, 210, 226);
+}
+#cold {
+  background-color: snow;
+}
+#aut {
+  background-color: rgb(243, 199, 148);
+}
+#spri {
+  background-color: rgba(243, 188, 243, 0.781);
+}
+#panda {
+  height: 270px;
+}
+h2 {
+  text-align: center;
+}
